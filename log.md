@@ -70,14 +70,14 @@ Multiple clash of code in Codingame
 **Today's Progress**:  
 
  - Codewars problem - [Reducing by steps](https://www.codewars.com/kata/reducing-by-steps)
- - Codinggame problem - [Last Crusade Episode 1](https://www.codingame.com/ide/puzzle/the-last-crusade-episode-1)
+ - Codingame problem - [Last Crusade Episode 1](https://www.codingame.com/ide/puzzle/the-last-crusade-episode-1)
 - Some clash of code in Codingame
 - Started with [Vue.js](https://vuejs.org/). Did some hands-on work in Scrimba for Vue.js basics - [Link](https://scrimba.com/playlist/pXKqta)
 
 **Link(s) to work**: 
 
 - Codewars - [PrizeDraw](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/ReducingBySteps.java)
-- Codinggame Medium Puzzle - [Last Crusade Episode 1](https://github.com/thiyagu-7/codinggame/blob/master/src/com/codingame/puzzles/medium/LastCrusadeEpisode1.java)
+- Codingame Medium Puzzle - [Last Crusade Episode 1](https://github.com/thiyagu-7/codingame/blob/master/src/com/codingame/puzzles/medium/LastCrusadeEpisode1.java)
 
 ### Day 8: January 17, 2018
 
@@ -106,3 +106,53 @@ Simple enough problem for a 4 kyu!!
 
 
 **Link(s) to work**: [BreadcrumbGenerator](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/BreadcrumbGenerator.java)
+
+### Day 10: January 19, 2018
+
+**Today's Progress**:  
+
+ - Codewars problem - [Airport Arrivals/Departures - #1](https://www.codewars.com/kata/airport-arrivals-slash-departures-number-1)
+ - Codingame - [There is no spoon episode 1](https://www.codingame.com/ide/puzzle/there-is-no-spoon-episode-1)
+
+
+**Link(s) to work**: 
+
+- Codewars - [AirportArrivalsDepartures1](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/AirportArrivalsDepartures1.java)
+- Codingame - [ThereIsNoSpoonEpisode1](https://github.com/thiyagu-7/codingame/blob/master/src/com/codingame/puzzles/medium/ThereIsNoSpoonEpisode1.java)
+
+
+### Day 11: January 20, 2018
+
+**Today's Progress**:  
+
+ - Codewars problem - [Snail](https://www.codewars.com/kata/snail)
+ - Learning Hadoop - Following [Hadoop book](https://github.com/tomwhite/hadoop-book) - Got the basic Map, reduce program from Chapter 2 to run locally (standalone mode)
+
+
+**Link(s) to work**: 
+
+- Codewars - [Snail](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/Snail.java)
+
+### Day 12: January 21, 2018
+
+**Today's Progress**:  
+
+ - Codewars problem - [80's Kids #6: Rock 'Em, Sock 'Em Robots](https://www.codewars.com/kata/80-s-kids-number-6-rock-em-sock-em-robots)
+- Codingame - [Order of Succession](https://www.codingame.com/ide/puzzle/order-of-succession)
+
+
+**Link(s) to work**: 
+
+- Codewars - [EightiesKids6](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/EightiesKids6.java)
+- Codingame - [Order of succession](https://github.com/thiyagu-7/codingame/blob/master/src/com/codingame/puzzles/easy/OrderOfSuccession.java)
+
+### Day 13: January 22, 2018
+
+**Today's Progress**:  
+
+ - Codewars problem - [Find The Smallest](https://www.codewars.com/kata/find-the-smallest)
+
+
+**Link(s) to work**: 
+
+- Codewars - [FindTheSmallest](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/FindTheSmallest.java)
