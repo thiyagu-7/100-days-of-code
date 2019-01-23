@@ -156,3 +156,16 @@ Simple enough problem for a 4 kyu!!
 **Link(s) to work**: 
 
 - Codewars - [FindTheSmallest](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/FindTheSmallest.java)
+
+### Day 14: January 23, 2018
+
+**Today's Progress**:  
+
+ - Codewars problem - [Create a funnel](https://www.codewars.com/kata/create-a-funnel/train/java)
+
+**Thoughts:**
+
+- Tricky problem. Solved it hackily to pass the tests. Basically had a static map to find if an index is already visited at a level to avoid double (or more?) counting when finding the weight of an element (after drip). 
+- Then revisited the weight logic by walking each level to find the weight.
+
+**Link(s) to work**:  [CreateAFunnel](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/Funnel.java)
