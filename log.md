@@ -169,3 +169,123 @@ Simple enough problem for a 4 kyu!!
 - Then revisited the weight logic by walking each level to find the weight.
 
 **Link(s) to work**:  [CreateAFunnel](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/Funnel.java)
+
+### Day 15: January 24, 2018
+
+**Today's Progress**:  
+
+ - Codewars problem - [4 By 4 Skyscrapers](https://www.codewars.com/kata/4-by-4-skyscrapers)
+
+**Thoughts:**
+
+- Solved it by backtracking
+
+**Link(s) to work**:  [Skyscrapers4By4](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/Skyscrapers4By4.java)
+
+### Day 16: January 25, 2018
+
+**Today's Progress**:  
+
+ - Codewars problem - [Threaded Counting](https://www.codewars.com/kata/threaded-counting)
+
+**Thoughts:**
+
+- Used a CyclicBarrier to solve this.
+- Another way would have been to use three Executor Services each having one thread.
+
+**Link(s) to work**:  [ThreadedCounting](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/ThreadedCounting.java)
+
+### Day 17: January 26, 2018
+
+**Today's Progress**:  
+
+ - Codewars problem - [Artificial Rain](https://www.codewars.com/kata/artificial-rain)
+
+**Thoughts:**
+
+- Nice problem. Could have solved it in one pass without using any temp arrays.
+
+**Link(s) to work**:  [ArtificialRain](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/ArtificialRain.java)
+
+### Day 18: January 27, 2018
+
+**Today's Progress**:  
+
+ - Codewars problem - [WeightForWeight](https://www.codewars.com/kata/weight-for-weight)
+ - Codingame problem - [Hunger Games](https://www.codingame.com/ide/puzzle/hunger-games)
+
+**Thoughts:**
+
+- Codewars - Straightforward problem. Solved by using a Comparator
+- Codingame - Solved it easily by using appropriate data structure (TreeMap, TreeSet) 
+
+**Link(s) to work**:  
+
+- Codewars - [WeightForWeight](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/WeightForWeight.java) 
+- Codingame - [HungerGames](https://github.com/thiyagu-7/codingame/tree/master/src/com/codingame/puzzles/easy/HungerGames.java)
+
+### Day 19: January 28, 2018
+
+**Today's Progress**:  
+
+ - Codewars problem - [Directions Reduction](https://www.codewars.com/kata/directions-reduction)
+ - Ran the MaxTemperatureWithCombiner to use a map, combine and reduce tasks
+
+**Link(s) to work**:  
+
+- Codewars - [DirectionsReduction](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/DirectionsReduction.java) 
+
+### Day 20: January 29, 2018
+
+**Today's Progress**:  
+
+ - Codewars problem - [Sweeping Trees](https://www.codewars.com/kata/sweeping-trees)
+
+
+**Link(s) to work**:  
+
+- Codewars - [SweepingTrees](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/SweepingTrees.java) 
+
+### Day 21: January 30, 2018
+
+**Today's Progress**:  
+
+ - Codewars problem - [Best Travel](https://www.codewars.com/kata/best-travel)
+
+
+**Link(s) to work**:  
+
+- Codewars - [BestTravel](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/BestTravel.java) 
+
+
+### Day 22: January 31, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems:
+     -  [Scramblies](https://www.codewars.com/kata/scramblies)
+     -  [Escape With Your Booty](https://www.codewars.com/kata/escape-with-your-booty)
+
+
+**Link(s) to work**:  
+
+- Codewars solutions:
+    - [Scramblies](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/Scramblies.java) 
+    - [EscapeWithYourBooty](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/EscapeWithYourBooty.java)
+
+    
+### Day 23: Febuary 1, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems:
+     -  [Simple Pig Latin](https://www.codewars.com/kata/simple-pig-latin)
+     -  [String -> N iterations -> String](https://www.codewars.com/kata/string-%3E-n-iterations-%3E-string)
+
+
+**Link(s) to work**:  
+
+- Codewars solutions:
+    - [SimplePigLatin](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/SimplePigLatin.java) 
+    - [StringNIterationsString](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/StringNIterationsString.java)
+
