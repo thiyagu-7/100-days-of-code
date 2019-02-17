@@ -274,7 +274,7 @@ Simple enough problem for a 4 kyu!!
     - [EscapeWithYourBooty](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/EscapeWithYourBooty.java)
 
     
-### Day 23: Febuary 1, 2018
+### Day 23: February 1, 2018
 
 **Today's Progress**:  
 
@@ -289,3 +289,200 @@ Simple enough problem for a 4 kyu!!
     - [SimplePigLatin](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/SimplePigLatin.java) 
     - [StringNIterationsString](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/StringNIterationsString.java)
 
+
+### Day 24: February 2, 2018
+
+**Today's Progress**:  
+
+ - Codewars problem - [Molecule to atoms](https://www.codewars.com/kata/molecule-to-atoms)
+
+
+**Link(s) to work**:  
+
+- Codewars - [MoleculeToAtoms](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/MoleculeToAtoms.java) 
+
+
+### Day 25: February 3, 2018
+
+**Today's Progress**:  
+
+ - Codewars problem - [A Simple Music Encoder](https://www.codewars.com/kata/a-simple-music-encoder)
+- Hadoop - basic operations code
+
+
+**Link(s) to work**:  
+
+- Codewars - [SimpleMusicEncoder](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/SimpleMusicEncoder.java) 
+
+### Day 26: February 4, 2018
+
+**Today's Progress**:  
+
+ - Codewars problem
+  - [Cricket Scores](https://www.codewars.com/kata/cricket-scores/train/java)
+  - [Traffic Jam](https://www.codewars.com/kata/traffic-jam)
+
+**Thoughts**: Both are nice problems. It took some time to solve the second one. Enjoyed it :)
+
+**Link(s) to work**:  
+
+- Codewars 
+ - [CricketScores](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/CricketScores.java) 
+ - [TrafficJam](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/TrafficJam.java) 
+
+### Day 27: February 5, 2018
+
+**Today's Progress**:  
+
+ - Codewars problem
+  - [Fill In An Area](https://www.codewars.com/kata/fill-in-an-area/)
+  - [Cockroach Bug Scatter](https://www.codewars.com/kata/cockroach-bug-scatter/)
+
+ 
+**Link(s) to work**:  
+
+- Codewars 
+ - [FillAnArea](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/FillAnArea.java) 
+ - [CockroachBugScatter](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/CockroachBugScatter.java)
+
+### Day 28: February 6, 2018
+
+**Today's Progress**:  
+
+ - Codewars problem
+  - [Word Wrap](https://www.codewars.com/kata/word-wrap-1)
+  - [Largest rectangle in background](https://www.codewars.com/kata/largest-rectangle-in-background)
+
+ 
+**Link(s) to work**:  
+
+- Codewars 
+ - [WordWrap](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/WordWrap.java) 
+ - [LargestRectangleInBackground](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/LargestRectangleInBackground.java)
+
+ 
+ 
+### Day 29: February 7, 2018
+
+**Today's Progress**:  
+
+ - Codewars problem - [Predictive contact list](https://www.codewars.com/kata/predictive-contact-list)
+ 
+**Link(s) to work**:  [PredictiveContactList](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/PredictiveContactList.java)
+
+### Day 30: February 8, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Buddy Pairs](https://www.codewars.com/kata/buddy-pairs/train/java)
+ 
+**Link(s) to work**:  [BuddyPairs](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/BuddyPairs.java)
+
+### Day 31: February 9, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems 
+  - [TV Remote](https://www.codewars.com/kata/tv-remote)
+  - [TV Remote (shift and space)](https://www.codewars.com/kata/tv-remote-shift-and-space)
+ 
+**Notes:** Part of series of problems
+ 
+**Link(s) to work**:  
+
+- Codewars:
+ - [TVRemote](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/TVRemote.java)
+ - [TVRemoteShiftAndSpace](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/TVRemoteShiftAndSpace.java)
+ 
+ 
+### Day 32: February 10, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems 
+  - [TV Remote (wrap)](https://www.codewars.com/kata/tv-remote-wrap)
+  - [TV Remote (symbols)]( https://www.codewars.com/kata/tv-remote-symbols/train/java)
+- Tried out basic Vue.js code locally
+- Set up hadoop in pseudo-distributed mode and executed a few *hadoop fs* commands.
+ 
+**Notes:** Codewars - Part of series of problems
+ 
+**Link(s) to work**:  
+
+- Codewars:
+ - [TVRemoteWrap](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/TVRemoteWrap.java)
+ - [TVRemoteSymbols](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/TVRemoteSymbols.java)
+ 
+ 
+### Day 33: February 11, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [The observed PIN](https://www.codewars.com/kata/the-observed-pin/)
+ - Some clashes in codingame
+ 
+**Link(s) to work**:  [TheObservedPIN](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/TheObservedPIN.java)
+
+### Day 34: February 12, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Are Same] (https://www.codewars.com/kata/are-they-the-same/train/java)
+ 
+**Link(s) to work**:  [AreSame](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/AreSame.java)
+
+### Day 35: February 13, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Meeting] ( https://www.codewars.com/kata/meeting)
+ 
+**Link(s) to work**:  [Meeting](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/Meeting.java)
+
+### Day 36: February 14, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Pattern Generator] (https://www.codewars.com/kata/pattern-generator)
+ 
+**Link(s) to work**:  [PatternGenerator](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/PatternGenerator.java)
+
+### Day 35: February 15, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems 
+   -  [Balanced Parens] (https://www.codewars.com/kata/all-balanced-parentheses/)
+   -  [Help the bookseller] (https://www.codewars.com/kata/help-the-bookseller/train/java)
+ 
+**Link(s) to work**:  
+  
+   - [BalancedParens](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/BalancedParens.java)
+  - [HelpTheBookSeller](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/HelpTheBookSeller.java)
+
+### Day 36: February 16, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Connect Four] (https://www.codewars.com/kata/connect-four-1)
+ - Made my first contribution to open source by contributing to RxJava documentation
+ 
+**Link(s) to work**: 
+
+  - [ConnectFour](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/ConnectFour.java)
+  - [Commit to RxJava](https://github.com/ReactiveX/RxJava/commit/add2812a20bda65bb7326c3845f7714b7218a505)
+
+### Day 37: February 17, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems 
+   - [How Much] (https://www.codewars.com/kata/how-much)
+   - [Which Are In](https://www.codewars.com/kata/which-are-in/)
+- Coding on Vue.js
+
+
+**Link(s) to work**:  
+
+  - [HowMuch](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/HowMuch.java)
+  - [WhichAreIn](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/WhichAreIn)
