@@ -486,3 +486,170 @@ Simple enough problem for a 4 kyu!!
 
   - [HowMuch](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/HowMuch.java)
   - [WhichAreIn](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/WhichAreIn)
+
+
+### Day 38: February 18, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [How many number III] (https://www.codewars.com/kata/how-many-numbers-iii/)
+ 
+**Link(s) to work**:  [HowManyNumbers3](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/HowManyNumbers3.java)
+
+### Day 39: February 19, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Fun with lists: trees edition] (https://www.codewars.com/kata/fun-with-lists-trees-edition/)
+ 
+**Link(s) to work**:  [FunWithListsTreesEdition](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/FunWithListsTreesEdition.java)
+
+### Day 40: February 20, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Greed Is Good] (https://www.codewars.com/kata/greed-is-good/)
+ 
+**Link(s) to work**:  [GreedIsGood](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/GreedIsGood.java)
+
+### Day 41: February 21, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Can You Get the Loop] (https://www.codewars.com/kata/can-you-get-the-loop/)
+ 
+**Link(s) to work**:  [CanYouGetTheLoop](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/CanYouGetTheLoop.java)
+
+### Day 42: February 22, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Permutations] (https://www.codewars.com/kata/permutations/)
+ 
+**Link(s) to work**:  [Permutations](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/Permutations.java)
+
+### Day 43: February 23, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Alphabet war - airstrike - letters massacre] (https://www.codewars.com/kata/alphabet-war-airstrike-letters-massacre/)
+ 
+**Link(s) to work**:  [AlphabetWarAirstrike](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/AlphabetWarAirstrike.java)
+
+### Day 44: February 24, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Closest and Smallest] (https://www.codewars.com/kata/closest-and-smallest/)
+ 
+**Link(s) to work**:  [ClosestAndSmallest](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/ClosestAndSmallest.java)
+
+### Day 45: February 25, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Camel case method] (https://www.codewars.com/kata/camelcase-method/)
+ 
+**Link(s) to work**:  [CamelCaseMethod](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/CamelCaseMethod.java)
+
+### Day 46: February 26, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Rectangle into Squares] (https://www.codewars.com/kata/rectangle-into-squares/)
+ 
+**Link(s) to work**:  [RectangleIntoSquares](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/RectangleIntoSquares.java)
+
+### Day 47: February 27, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Split and then add both sides of an array together] (https://www.codewars.com/kata/split-and-then-add-both-sides-of-an-array-together/)
+ 
+**Link(s) to work**:  [SplitAndAddArray](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/SplitAndAddArray.java)
+
+### Day 48: February 28, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Collatz] (https://www.codewars.com/kata/collatz/)
+ 
+**Link(s) to work**:  [Collatz](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/Collatz.java)
+
+### Day 49: March 1, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Number Zoo Patrol] (https://www.codewars.com/kata/number-zoo-patrol/)
+ 
+**Link(s) to work**:  [NumberZooPatrol](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/NumberZooPatrol.java)
+
+### Day 50: March 2, 2018
+
+**Today's Progress**:  
+
+- Contribute to flowable-engine [Issue](https://github.com/flowable/flowable-engine/issues/1637)
+ 
+**Link(s) to work**:  [PR](https://github.com/flowable/flowable-engine/pull/1643)
+
+
+### Day 51: March 3, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Minimum path in squares] (https://www.codewars.com/kata/minimum-path-in-squares/)
+ 
+**Link(s) to work**:  [MinPathSquare](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/MinPathSquare.java)
+
+### Day 52: March 4, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Battle ships: Sunk damaged or not touched?] (https://www.codewars.com/kata/battle-ships-sunk-damaged-or-not-touched)
+ 
+**Link(s) to work**:  [BattleShips](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/BattleShipsjava)
+
+### Day 53: March 5, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Sum of intervals] (https://www.codewars.com/kata/sum-of-intervals/)
+ 
+**Link(s) to work**:  [SumOfIntervals](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/SumOfIntervals.java)
+
+### Day 54: March 6, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems 
+  - [Next bigger number with the same digits] (https://www.codewars.com/kata/next-bigger-number-with-the-same-digits/)
+  - [Next smaller number with the same digits] (https://www.codewars.com/kata/next-smaller-number-with-the-same-digits/)
+  
+**Link(s) to work**:  
+ 
+  - [NextBiggerNumber](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/NextBiggerNumber.java)
+  - [NextSmallerNumber](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/NextSmallerNumber.java)
+
+### Day 55: March 7, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Number of trailing zeros of N!] (https://www.codewars.com/kata/number-of-trailing-zeros-of-n/)
+ 
+**Link(s) to work**:  [NFactorialTrailingZeros](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/NFactorialTrailingZeros.java)
+
+### Day 56: March 8, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Integers: Recreation One] (https://www.codewars.com/kata/integers-recreation-one/)
+ 
+**Link(s) to work**:  [IntegersRecreationOne](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/IntegersRecreationOne.java)
+
+### Day 57: March 9, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Sat Nav directions] (https://www.codewars.com/kata/sat-nav-directions/)
+ 
+**Link(s) to work**:  [SatNavDirections](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/SatNavDirections.java)
