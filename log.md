@@ -20,7 +20,6 @@
 
 
 
-
 ### Day 3: January 12, 2018
 
 **Today's Progress**: Worked on a Codewars problem - [Doule Cola](https://www.codewars.com/kata/double-cola/java)
@@ -653,3 +652,157 @@ Simple enough problem for a 4 kyu!!
  - Codewars problems - [Sat Nav directions] (https://www.codewars.com/kata/sat-nav-directions/)
  
 **Link(s) to work**:  [SatNavDirections](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/SatNavDirections.java)
+
+### Day 58: March 10, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Escape the maze] (https://www.codewars.com/kata/escape-the-maze/)
+
+**Thoughts:**
+- Nice problem. Enjoyed solving it.
+ 
+**Link(s) to work**:  [EscapeTheMaze](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/EscapeTheMaze.java)
+
+### Day 59: March 11, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [parseInt reloaded] (https://www.codewars.com/kata/parseint-reloaded/)
+ 
+**Link(s) to work**:  [ParseIntReloaded](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/ParseIntReloaded.java)
+
+### Day 60: March 12, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Rockin' Robin] (https://www.codewars.com/kata/rockin-robin/train/java/)
+ -  
+**Link(s) to work**:  [RockingRobin](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/RockingRobin.java)
+
+### Day 61: March 13, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Sudoku Solution Validator] (https://www.codewars.com/kata/sudoku-solution-validator/)
+ - Addressed the requested changes in the flowable-engine PR
+
+**Thoughts:** - Solved it using streams (techinally a one-line solution :))
+ 
+**Link(s) to work**:  
+
+- Codewars - [SudokuValidator](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/SudokuValidator.java)
+- [flowable-engine PR](https://github.com/flowable/flowable-engine/pull/1643)
+
+
+### Day 62: March 14, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Bananas] (https://www.codewars.com/kata/bananas/train/java/)
+ 
+- Refreshed Android getting started bits
+ 
+**Link(s) to work**:  [Bananas](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/Bananas.java)
+
+### Day 63: March 15, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Sort binary tree by levels] (https://www.codewars.com/kata/sort-binary-tree-by-levels/)
+ - Few clases in Codingame
+ 
+**Link(s) to work**:  [SortBinaryTreesByLevels](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/SortBinaryTreesByLevels.java)
+
+### Day 64: March 16, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [The wrong way cow] (https://www.codewars.com/kata/the-wrong-way-cow/)
+ - Few clases in Codingame
+- Read about chrome extensions
+
+**Thoughts:** - The solution is messy. Need to revisit to refactor it.
+ 
+**Link(s) to work**:  [TheWrongWayCow](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/TheWrongWayCow.java)
+
+### Day 65: March 17, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Nut Farm 2] (https://www.codewars.com/kata/nut-farm-2/)
+ - Few clases in Codingame
+ - Tried out hello world chrome extension building locally.
+
+ 
+**Link(s) to work**:  [NutFarm2](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/NutFarm2.java)
+
+
+### Day 66: March 18, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Maximum Contiguous Sum] (https://www.codewars.com/kata/maximum-contiguous-sum/)
+ 
+ 
+**Link(s) to work**:  [MaximumContiguousSum](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/MaximumContiguousSum.java)
+
+### Day 67: March 19, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Range Extraction] (https://www.codewars.com/kata/range-extraction/)
+ 
+ 
+**Link(s) to work**:  [RangeExtraction](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/RangeExtraction.java)
+
+### Day 68: March 20, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems 
+     - [Path Finder #1: can you reach the exit?] (https://www.codewars.com/kata/path-finder-number-1-can-you-reach-the-exit/)
+     - [Path Finder #2: shortest path](https://www.codewars.com/kata/path-finder-number-2-shortest-path/)
+ 
+
+**Link(s) to work**:  
+   
+   - [PathFinder1](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/PathFinder1.java)
+   
+   - [PathFinder2](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/PathFinder2.java)
+
+### Day 69: March 21, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Path Finder #3: the Alpinist] (https://www.codewars.com/kata/path-finder-number-3-the-alpinist/)
+ 
+ 
+**Link(s) to work**:  [PathFinder3](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/PathFinder3.java)
+
+### Day 70: March 22, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [The Greatest Warrior] (https://www.codewars.com/kata/the-greatest-warrior)
+ 
+ 
+**Link(s) to work**:  [TheGreatestWarrior](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/TheGreatestWarrior.java)
+
+### Day 71: March 23, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [ Unique Substring From Joined Strings] (https://www.codewars.com/kata/unique-substring-from-joined-strings/)
+ 
+ 
+**Link(s) to work**:  [UniqueSubstringFromJoinedStrings](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/UniqueSubstringFromJoinedStrings.java)
+
+### Day 72: March 24, 2018
+
+**Today's Progress**:  
+
+ - Codewars problems - [Battleship Field Validator] (https://www.codewars.com/kata/battleship-field-validator/)
+ 
+ 
+**Link(s) to work**:  [BattleshipFieldValidator](https://github.com/thiyagu-7/codewars/blob/master/src/com/codewars/BattleshipFieldValidator.java)
